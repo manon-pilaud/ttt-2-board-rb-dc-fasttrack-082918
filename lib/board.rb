@@ -1,2 +1,2 @@
-board = Array.new(9," ")
+board = [].new(9," ")
 
